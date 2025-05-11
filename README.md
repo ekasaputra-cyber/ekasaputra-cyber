@@ -13,7 +13,7 @@ I'm Eka Saputra — a tech enthusiast and student developer passionate about bui
 - 🎨 Practicing UI implementation based on **Figma designs**, especially for **mobile-first layouts**.
 - 💬 I enjoy learning about both the technical and business sides of creating a digital product.
 - 👥 Working in a small, student-led team from various backgrounds (Tech, Design, and Management).
-- 📫 How to reach me: [Add your email or social media here]
+- 📫 How to reach me: hmm
 - ⚡ Fun fact: I’m building everything step by step while still studying — learning by doing and solving real-world problems.
 
 Thanks for stopping by! 🚀
