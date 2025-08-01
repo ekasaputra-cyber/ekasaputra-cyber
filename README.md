@@ -1,3 +1,8 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ekasaputra-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  &nbsp;
+</p>
+
 # Hi there, I'm Eka Saputra 👋
 
 I'm a junior developer from Indonesia, inspired by how super-apps like Gojek and Tokopedia impact millions of lives. I'm passionate about using my coding skills to build similarly useful and efficient applications, and I've been hooked on the process from day one.
@@ -39,7 +44,5 @@ Here are a few projects I've worked on. You can find more on my repositories pag
 * **Portfolio:** 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ekasaputra-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=muffid&show_icons=true&theme=radical" alt="github-stats" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ekasaputra-cyber&show_icons=true&theme=radical" alt="github-stats" width="410" />
 </p>
