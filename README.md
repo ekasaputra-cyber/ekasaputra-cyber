@@ -1,7 +1,6 @@
 # Hi there, I'm Eka Saputra 👋
 
-I'm a junior developer based in sunny Singapore, passionate about building user-friendly and efficient applications. My journey into the world of tech was sparked by a fascination with how apps like Grab work. I wanted to build something just as useful, and I've been hooked on coding ever since!
-
+I'm a junior developer from Indonesia, inspired by how super-apps like Gojek and Tokopedia impact millions of lives. I'm passionate about using my coding skills to build similarly useful and efficient applications, and I've been hooked on the process from day one.
 ---
 
 ### 🚀 What I'm Currently Working On
@@ -26,17 +25,17 @@ I'm a junior developer based in sunny Singapore, passionate about building user-
 
 Here are a few projects I've worked on. You can find more on my repositories page!
 
-| Project                | Description                                                                                                                                     | Tech Stack                             |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| **SG Hawker Finder** | A web app to help users discover and review hawker centres in Singapore. Features include a search function, user ratings, and an interactive map. | `React` `Node.js` `PostgreSQL`         |
-| **TaskFlow Manager** | A Kanban-style task management app that allows users to create, drag-and-drop, and organize their daily tasks to improve productivity.          | `Vue.js` `Express` `MongoDB`           |
-| **Personal Portfolio** | My personal portfolio website built from scratch to showcase my skills and projects. Fully responsive and designed with a mobile-first approach.  | `JavaScript` `HTML5` `CSS3`            |
+| Project | Description | Tech Stack |
+|---|---|---|
+| **Nusantara Culinary** | A web app to discover and share Indonesian traditional food recipes from various regions. Features include recipe submission, search by ingredient, and user ratings. | `React` `Node.js` `PostgreSQL` |
+| **Info Kost Finder** | A platform to help students find and review boarding houses (kost) near their campus. Implemented an interactive map and a detailed filtering system. | `Vue.js` `Express` `MongoDB` |
+| **UMKM Landing Page Builder** | A simple tool for local small business owners (UMKM) to create their own promotional landing page without any coding knowledge. | `JavaScript` `HTML5` `CSS3` |
 
 ---
 
 ### 📫 How to Reach Me
 
-* **LinkedIn:** https://www.linkedin.com/in/
-* **Portfolio:** 
+* **LinkedIn:** https://www.linkedin.com/in/your-linkedin-username
+* **Portfolio:** https://your-portfolio-link.com
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ekasaputra-cyber&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
