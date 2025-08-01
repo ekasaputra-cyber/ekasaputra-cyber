@@ -37,5 +37,5 @@ Here are a few projects I've worked on. You can find more on my repositories pag
 
 * **LinkedIn:** 
 * **Portfolio:** 
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ekasaputra-cyber&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekasaputra-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="agastyra" /> </p>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=muffid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
