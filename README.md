@@ -35,7 +35,7 @@ Here are a few projects I've worked on. You can find more on my repositories pag
 
 ### 📫 How to Reach Me
 
-* **LinkedIn:** https://www.linkedin.com/in/your-linkedin-username
-* **Portfolio:** https://your-portfolio-link.com
+* **LinkedIn:** 
+* **Portfolio:** 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ekasaputra-cyber&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
