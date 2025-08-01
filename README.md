@@ -5,7 +5,7 @@
 
 # Hi there, I'm Eka Saputra 👋
 
-I'm a junior developer from Indonesia, inspired by how super-apps like Gojek and Tokopedia impact millions of lives. I'm passionate about using my coding skills to build similarly useful and efficient applications, and I've been hooked on the process from day one.
+I'm a junior developer, inspired by how super-apps like Gojek and Tokopedia impact millions of lives. I'm passionate about using my coding skills to build similarly useful and efficient applications, and I've been hooked on the process from day one.
 ---
 
 ### 🚀 What I'm Currently Working On
