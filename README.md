@@ -1,19 +1,42 @@
-### Hi there 👋
+# Hi there, I'm Eka Saputra 👋
 
-I'm Eka Saputra — a tech enthusiast and student developer passionate about building useful web applications and exploring startup development.
+I'm a junior developer based in sunny Singapore, passionate about building user-friendly and efficient applications. My journey into the world of tech was sparked by a fascination with how apps like Grab work. I wanted to build something just as useful, and I've been hooked on coding ever since!
 
-- 🌱 Currently learning full-stack web development with **Laravel**, **Vue.js**, and **Tailwind CSS**.
-- 🧠 Interested in **health tech**, **childcare platforms**, and **digital product development**.
-- 🔧 Building features like:
-  - 🤖 Chatbots for early health detection
-  - 🧑‍⚕️ Online doctor chat & video call
-  - 🛒 Simple e-commerce functionality
-  - 📆 Scheduling tools for growth tracking & reminders
-  - 📰 Informational content like parenting articles and notifications
-- 🎨 Practicing UI implementation based on **Figma designs**, especially for **mobile-first layouts**.
-- 💬 I enjoy learning about both the technical and business sides of creating a digital product.
-- 👥 Working in a small, student-led team from various backgrounds (Tech, Design, and Management).
-- 📫 How to reach me: hmm
-- ⚡ Fun fact: I’m building everything step by step while still studying — learning by doing and solving real-world problems.
+---
 
-Thanks for stopping by! 🚀
+### 🚀 What I'm Currently Working On
+
+* 🌱 I’m currently learning **TypeScript** to build more robust React applications.
+* 👯 I’m looking to collaborate on **open-source projects focused on sustainability or social good**.
+* 🤔 I’m looking for help with **best practices for deploying Node.js applications on the cloud**.
+* 💬 Ask me about **building RESTful APIs with Express and connecting them to a React frontend**.
+
+---
+
+### 💻 My Tech Stack
+
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Vue.js
+* **Backend:** Node.js, Express, Python, Flask
+* **Databases:** MongoDB, PostgreSQL
+* **Tools:** Git, GitHub, VS Code, Heroku
+
+---
+
+### 🔧 My Projects
+
+Here are a few projects I've worked on. You can find more on my repositories page!
+
+| Project                | Description                                                                                                                                     | Tech Stack                             |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| **SG Hawker Finder** | A web app to help users discover and review hawker centres in Singapore. Features include a search function, user ratings, and an interactive map. | `React` `Node.js` `PostgreSQL`         |
+| **TaskFlow Manager** | A Kanban-style task management app that allows users to create, drag-and-drop, and organize their daily tasks to improve productivity.          | `Vue.js` `Express` `MongoDB`           |
+| **Personal Portfolio** | My personal portfolio website built from scratch to showcase my skills and projects. Fully responsive and designed with a mobile-first approach.  | `JavaScript` `HTML5` `CSS3`            |
+
+---
+
+### 📫 How to Reach Me
+
+* **LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile
+* **Portfolio:** https://www.your-portfolio-website.com
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ekasaputra-github&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
