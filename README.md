@@ -39,4 +39,4 @@ Here are a few projects I've worked on. You can find more on my repositories pag
 * **LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile
 * **Portfolio:** https://www.your-portfolio-website.com
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ekasaputra-github&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ekasaputra-cyber&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
